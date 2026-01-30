@@ -1,0 +1,9 @@
+fastapi
+pydantic
+pydantic[Email]
+sqlalchemy
+pyjwt
+psycopg2-binary
+pytest
+httpx
+python-multipart

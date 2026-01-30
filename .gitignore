@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# test database
+.test_finance_manager.db
+
 # C extensions
 *.so
 
@@ -143,6 +146,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.finenv/
+
 
 # Spyder project settings
 .spyderproject
